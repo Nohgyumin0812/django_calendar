@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96c8af50-9091-4768-a82c-27c42f7ef35d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/django-calendar.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cal/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cal/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cal/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cal/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cal/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cal/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cal/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cal/templates/cal/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cal/templates/cal/calendar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cal/templates/cal/event.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cal/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cal/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cal/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cal/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangocalendar/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangocalendar/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangocalendar/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangocalendar/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="728c074e-68d9-476a-93fd-977da2464092" />
+  <component name="ProjectId" id="28un37fm9EvmA7PMw8AQHW6eC7r" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jondari" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="django_calendar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\82107\Documents\GitHub\django_calendar\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96c8af50-9091-4768-a82c-27c42f7ef35d" name="Default Changelist" comment="" />
+      <created>1652075135445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652075135445</updated>
+      <workItem from="1652075136788" duration="197000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1652075322001">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1652075322001" />
+    <state x="731" y="151" key="FileChooserDialogImpl" timestamp="1652075333673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="731" y="151" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1652075333673" />
+  </component>
+</project>
